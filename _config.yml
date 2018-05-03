@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+title: PEBookall Personal Page
+description: What you will find here are links 
+plugins:
+-jemoji
