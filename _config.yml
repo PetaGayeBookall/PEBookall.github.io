@@ -1,5 +1,5 @@
-theme:  jekyll-theme-architect
-title:  "PEBookall's Personal Page"
-description:  Most things about to PEBookall
+theme:jekyll-theme-architect
+title:"PEBookall's Personal Page"
+description:Most things about to PEBookall
 plugins:
 -jemoji
